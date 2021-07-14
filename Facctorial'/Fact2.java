@@ -3,7 +3,6 @@ import java.util.Scanner;
 class Fact2
 {
 
-
     static int factorial(int n)
     {
 
