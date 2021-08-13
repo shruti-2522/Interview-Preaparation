@@ -33,8 +33,9 @@ class  Ass2
         {
             if(checkVowel(str1.charAt(i)))
             {
-                System.out.print(str1.charAt(i-1)+","+str1.charAt(i+1)+",");
+                continue;
             }
+            System.out.println(""+str1.charAt(i));
         }
     }
 }

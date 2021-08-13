@@ -26,6 +26,7 @@ class Ass1
              if(isUpper(s1.charAt(i)))
              {
                  System.out.println("FIRST UPPERCASE LETTER="+s1.charAt(i));
+                 break;
              }
          }
     }

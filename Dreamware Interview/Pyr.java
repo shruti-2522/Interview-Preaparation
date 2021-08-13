@@ -1,3 +1,4 @@
+
 public class Pyr {
 
     public static void main(String[] args) {
